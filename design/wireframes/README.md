@@ -1,1 +1,0 @@
-# HashiHelp lo-fi sketches

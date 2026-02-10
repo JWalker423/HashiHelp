@@ -1,2 +1,0 @@
-# HashiHelp Swift/iOS app
-

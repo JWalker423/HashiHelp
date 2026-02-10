@@ -1,2 +1,0 @@
-# Hashihelp Web App
-
